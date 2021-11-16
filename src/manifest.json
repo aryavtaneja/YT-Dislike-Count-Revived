@@ -1,7 +1,11 @@
 {
-    "name": "Dislike Count Revived",
+    "name": "YT Dislike Count Revived",
     "version": "1.0",
-    "manifest_version": 2,
+    "description": "Add the dislike count back to YouTube videos",
+    "icons": {
+        "128": "/images/icon.png"
+    },
+    "manifest_version": 3,
     "content_scripts": [
         {
             "matches": ["https://www.youtube.com/watch*"],
