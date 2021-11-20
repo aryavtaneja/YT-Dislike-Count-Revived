@@ -6,7 +6,7 @@
 After YouTube announced they were [hiding public dislike counts from videos](https://blog.youtube/news-and-events/update-to-youtube/), I, like many, was miffed. YouTube was still, at least temporarily, allowing you to fetch dislike counts from the API. Therefore, I decided to take the plunge, learning to make Chrome extensions while improving my YouTube experience.
 
 ## how to install
-I've submitted the extension to the Chrome Web Store for review, but it'll take some time, so in the meantime, you'll have to sideload the extension.
+The extension is available in the Chrome Web Store [here](https://chrome.google.com/webstore/detail/dislike-count-revived/pjbpafkacplaleghiegjhkiebnafblhi?hl=en&authuser=1). If you'd like to sideload it instead for the latest version, read on:
 
 1. Go to [releases](https://github.com/aryavtaneja/YT-Dislike-Count-Revived/releases/tag/releases) and download the latest one.
 2. Unzip the .zip file.
